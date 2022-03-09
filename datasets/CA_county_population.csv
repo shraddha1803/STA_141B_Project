@@ -1,0 +1,59 @@
+county,pop,county_cat
+Los Angeles,9934710,urban
+San Diego,3351737,urban
+Orange,3174849,urban
+Riverside,2544817,urban
+San Bernardino,2220081,urban
+Santa Clara,1914397,urban
+Alameda,1685048,urban
+Sacramento,1591994,urban
+Contra Costa,1162547,urban
+Fresno,1020554,urban
+Kern,919534,suburban
+San Francisco,884108,urban
+Ventura,839598,urban
+San Joaquin,791119,urban
+San Mateo,760249,urban
+Stanislaus,558262,suburban
+Sonoma,481415,suburban
+Tulare,471013,suburban
+Solano,453397,suburban
+Santa Barbara,448656,suburban
+Monterey,434394,suburban
+Placer,416326,suburban
+Merced,288267,suburban
+San Luis Obispo,282382,suburban
+Santa Cruz,271329,suburban
+Marin,256318,suburban
+Yolo,221646,suburban
+El Dorado,199134,rural
+Butte,185727,suburban
+Shasta,181193,suburban
+Imperial,180291,suburban
+Madera,158662,rural
+Kings,157614,rural
+Napa,134609,suburban
+Humboldt,133500,rural
+Nevada,100496,rural
+Sutter,98840,rural
+Mendocino,84793,rural
+Yuba,82001,rural
+Tehama,68282,rural
+San Benito,66831,rural
+Lake,64593,rural
+Tuolumne,54751,rural
+Calaveras,46526,rural
+Siskiyou,43506,rural
+Amador,40793,rural
+Lassen,30438,rural
+Glenn,29671,rural
+Del Norte,28028,rural
+Colusa,21934,rural
+Plumas,19005,rural
+Inyo,18318,rural
+Mariposa,16597,rural
+Mono,14567,rural
+Trinity,11439,rural
+Modoc,8964,rural
+Sierra,3029,rural
+Alpine,1249,rural
