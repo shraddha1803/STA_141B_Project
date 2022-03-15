@@ -1,9 +1,9 @@
-### STA 141B Project Proposal
+# STA 141B Project Proposal
 By Shraddha Jhingan, Sofia Maysenhalder, Tammie Tam
 
 2/13/22
 
-##Introduction
+## Introduction
 In 2020, the number of reported hate crimes in the United States rose 6 percent from 2019, according to the FBI [1]. About 62 percent of reported hate crimes were racially motivated [2]. To get further insight into hate crimes, we can look at a well-studied country like Germany where researchers have examined the role of social media on the frequency of hate crimes. According to a research paper by Karsten Müller and Carlo Schwarz, increased anti-refugee rhetoric and sentiments on social media has been correlated with an increased frequency in anti-refugee hate crimes in Germany [3]. Therefore, we are interested in the role of social media on hate crimes in the United States, while also investigating other aspects of hate crimes such as motivation and location. Some questions we are interested in including:
 
 Who are those most vulnerable to crimes?
@@ -21,15 +21,15 @@ In addition, we may want to dive deeper into specific cities and their hate crim
 
 We will also be using the Twitter API, which is available for download on the Twitter Developer platform (Link: https://developer.twitter.com/en/docs/twitter-api). The API allows us to access information that developers can access to build an app, such as programs about Direct Messages. The most important feature for us however will be access to the Tweets. We will be using the Essential version of the API which we will obtain by signing up for a student account. This will allow us to access 500,000 Tweets which will be sufficient for our topic.
 
-##Challenges
+## Challenges
 The most challenging aspect of this project is merging the data from our multiple sources (hate_crime dataset, Sacramento Hate Crime Incident Data, and Twitter API) to get a comprehensive look at the factors that lead up to hate crime, including social media usage. Getting access to the Twitter API will pose an additional challenge in our 6-week timeline because it can take up to a week to get access to it, which means we will have less time to work with it. We will also have to make requests on the Terminal to get access to the information within the API, which may pose another time constraint for us. Lastly, the scale of our project will be challenging considering the large number of variables we will be working with (15+) and the thousands of tweets that are part of theTwitter API.
 
-##Skillsets Required
+## Skillsets Required
 Prior to gaining deeper insights into the data, we will be conducting an exploratory analysis using techniques that we learnt in STA 141A, such as finding summary statistics in Python or R. As part of the exploratory analysis, we will also be creating basic visualizations to understand any obvious trends in the data, which will be useful given the large scale of our data.
 
 After our exploratory analysis, we expect to use the Pandas and Numpy libraries in Python for data cleaning, data analysis and further data exploration to gain an insight into the data. Using these libraries will allow us to not only view quantitative and qualitative trends and insight in our data, but will also make it easier to manipulate the data for data cleaning and other purposes. Because we are also using an API alongside our data set, we will be able to use web scraping so that we can analyze the content of the tweets contained in the API. As part of our analysis, we will also be creating interactive visualizations in Python, like we have learnt in STA 141B.
 
-##Bibliography
+## Bibliography
 Hernandez J. Hate crimes reach the highest level in more than a decade. NPR. https://www.npr.org/2021/08/31/1032932257/hate-crimes-reach-the-highest-level-in-more-than-a-decade. Published September 1, 2021. Accessed February 13, 2022.
 Hate crime statistics. Published August 30, 2021. Accessed February 13, 2022. https://www.justice.gov/hatecrimes/hate-crime-statistics
 Müller K, Schwarz C. Fanning the flames of hate: social media and hate crime. Journal of the European Economic Association. 2021;19(4):2131-2167. doi:10.1093/jeea/jvaa045
